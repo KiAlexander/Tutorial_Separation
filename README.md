@@ -118,6 +118,10 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Tasnet: time-domain audio separation network for real-time, single-channel speech separation, Luo Yi, ICASSP 2018] [[Paper]](https://arxiv.org/pdf/1711.00541) [[Code (Kai Li)]](https://github.com/JusperLee/Conv-TasNet) [[Code (asteroid)]](https://github.com/mpariente/asteroid/blob/master/egs/whamr/TasNet)
 
+- [Supervised Speech Separation Based on Deep Learning An Overview, DeLiang Wang, Arxiv 2018] [[Paper]](https://arxiv.org/ftp/arxiv/papers/1708/1708.07524.pdf) 
+
+- [An Overview of Lead and Accompaniment Separation in Music, Zafar Raﬁ, TASLP 2018] [[Paper]](https://arxiv.org/pdf/1804.08300)
+
 - [Conv-TasNet: Surpassing Ideal Time-Frequency Magnitude Masking for Speech Separation, Luo Yi, TASLP 2019] [[Paper]](https://ieeexplore.ieee.org/iel7/6570655/6633080/08707065.pdf) [[Code (Kai Li)]](https://github.com/JusperLee/Conv-TasNet) [[Code (asteroid)]](https://github.com/mpariente/asteroid/blob/master/egs/wham/ConvTasNet)
 
 - [Divide and Conquer: A Deep CASA Approach to Talker-independent Monaural Speaker Separation, Yuzhou Liu, TASLP 2019] [[Paper]](https://arxiv.org/pdf/1904.11148) [[Code]](https://github.com/yuzhou-git/deep-casa) [[Code]](https://github.com/yuzhou-git/deep-casa)
@@ -162,13 +166,19 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 
 - [Unsupervised Sound Separation Using Mixtures of Mixtures, Scott Wisdom, Arxiv] [[Paper]](https://arxiv.org/pdf/2006.12701.pdf)
 
+- [Lightweight U-Net Based Monaural Speech Source Separation for Edge Computing Device, Kwang Myung Jeon, ICCE 2020] [[Paper]](https://ieeexplore.ieee.org/abstract/document/9043051)
+
+- [LibriMix: An Open-Source Dataset for Generalizable Speech Separation, Joris Cosentino, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2005.11262) [[Code]](https://github.com/JorisCos/LibriMix)
+
+- [An End-to-end Architecture of Online Multi-channel Speech Separation, Jian Wu, Interspeech 2020] [[Paper]](https://arxiv.org/pdf/2009.03141.pdf)
+
+- [SAGRNN: Self-Attentive Gated RNN for Binaural Speaker Separation with Interaural Cue Preservation, Ke Tan, IEEE Signal Processing Letters] [[Paper]](https://arxiv.org/pdf/2009.01381.pdf)
+
 ### Multi-Model Speech Separation
 
 - [Deep Audio-Visual Learning: A Survey, Hao Zhu, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2001.04758.pdf)
 
 - [Audio-Visual Speech Enhancement Using Multimodal Deep Convolutional Neural Networks, Jen-Cheng Hou, TETCI 2017] [[Paper]](https://arxiv.org/pdf/1703.10893) [[Code]](https://github.com/avivga/audio-visual-speech-enhancement)
-
-- [The Sound of Pixels, Hang Zhao, ECCV 2018] [[Paper/Demo]](http://sound-of-pixels.csail.mit.edu/)
 
 - [Learning to Separate Object Sounds by Watching Unlabeled Video, Ruohan Gao, ECCV 2018] [[Paper]](https://arxiv.org/pdf/1804.01665.pdf)
 
@@ -231,6 +241,12 @@ This repo summarizes the tutorials, datasets, papers, codes and tools for speech
 - [Improving speaker discrimination of target speech extraction with time-domain SpeakerBeam, Marc Delcroix, ICASSP 2020] [[Paper]](https://arxiv.org/pdf/2001.08378.pdf)
 
 - [SpEx+: A Complete Time Domain Speaker Extraction Network, Meng Ge, Arxiv 2020] [[Paper]](https://arxiv.org/pdf/2005.04686.pdf) [[Code]](https://github.com/gemengtju/SpEx_Plus/tree/master/nnet)
+
+### Evaluation index
+
+- [Performance measurement in blind audio sourceseparation, Emmanuel Vincent et al., TASLP 2004] [[Paper]](https://hal.inria.fr/inria-00544230/document)
+
+- [SDR – Half-baked or Well Done?, Jonathan Le Roux, ICASSP 2019] [[Paper]](https://arxiv.org/pdf/1811.02508)
 
 
 ## Tools
